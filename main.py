@@ -4,4 +4,5 @@ opcao = int(input (" <3 Selecione o que deseja fazer:\n 1-Saque\n 2-Depositar\n 
 if opcao == 1: 
   saque = int(input("Qual valor você deseja sacar?"))
   obj_conta.sacar(saque)
-  mostrar = 
+  mostrar = obj_conta.saldo
+  print ("Seu sal")
