@@ -1,2 +1,2 @@
-# Conta_Ariely_Samanta
+# repositorio_Ary_Sam
 #sam
